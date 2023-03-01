@@ -28,6 +28,7 @@ public class Punto {
     public void setY(double y) {
         this.y = y;
     }
+    //Atajo para crear constructores, metodos (get y set), asi como otros mas que podemos ocupar. 
     //Insertar Constructores y Métodos Alt + Ins
-
+    
 }
